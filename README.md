@@ -1,6 +1,7 @@
-# hello-world
-Test repository please ignore
+So heres an example of a pull request in git hub
 
-Print("So, this is a commit test for staging gitty stuff");
 
-Mention a thingy#
+
+
+
+// everything that is changed, literally everthing that is STAGED is changed.
